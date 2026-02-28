@@ -86,7 +86,7 @@ FUNCTION {load.config}
   #0 'only.start.page :=
   #0 'wave.dash.in.pages :=
   #1 'show.urldate :=
-  #1 'show.url :=
+  #0 'show.url :=
   #0 'show.doi :=%【可修改】如果想显示doi，改为1
   #1 'show.preprint :=
   #0 'show.note :=
